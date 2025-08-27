@@ -1,2 +1,2 @@
-# whatsappcloneui
-a flutter application which demonstrates whatsapp ui
+# WhatsAppCloneUI
+A Flutter Application  WhatsApp Clone UI 
